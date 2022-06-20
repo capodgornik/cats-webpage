@@ -1,0 +1,27 @@
+/*
+This file is the stylesheet for the HTML code for the website about my cats.
+*/
+
+ul {
+    list-style-image: url('cat.png');
+}
+
+body {
+    background-color: aqua; 
+    background-image: url('figaro2.png');
+    background-attachment: fixed;
+    background-position: right;
+    background-repeat: no-repeat;
+} 
+
+a, body {
+    color: blue;
+}    
+
+h1 {
+    font-size: 50pt;
+}
+
+p {
+   font-size: 13pt; 
+}    
